@@ -1,6 +1,6 @@
 {
   "name": "react-typescript-webpack-boilerplate",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "Set up your React app with Typescript with this boilerplate using webpack configuration",
   "author": "Isaque Igor",
   "main": "index.js",

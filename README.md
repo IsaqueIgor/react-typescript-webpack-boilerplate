@@ -12,3 +12,5 @@
 ## About
 
 This is a starter React boilerplate app I've put together using typescript and webpack:
+
+Made with ♥ by Isaque Igor :wave: [Get in touch!](https://www.linkedin.com/in/isaqueigor/)
